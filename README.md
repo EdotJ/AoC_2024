@@ -9,8 +9,8 @@ Sleazily generated with ChatGPT:
      * * * * * * * * *
          _____
         /     \
-       |   *   |   Day: 1
-       |  * *  |  Code: [★                       ]
+       |   *   |   Day: 2
+       |  * *  |  Code: [★★                       ]
        |   *   |   
         \_____/
         /     \
